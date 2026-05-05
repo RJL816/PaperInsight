@@ -65,6 +65,9 @@
 - Windows 10 / 11
 - 需要网络连接（AI 服务和 Doc2X 为在线功能）
 
+## Doc2X API网址
+https://open.noedgeai.com/login
+
 ## 常见问题
 
 **Q: AI 服务如何配置？**
