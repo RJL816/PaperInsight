@@ -4,6 +4,8 @@
 
 ![首页概览](image4.png)
 
+下载在右侧Release 页面下载。
+![alt text](image-1.png)
 ## 功能介绍
 
 ### AI 精读报告
